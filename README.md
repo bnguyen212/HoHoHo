@@ -47,4 +47,4 @@ The backend is already hosted and provided at https://hohoho-backend.herokuapp.c
 
 ## Part 3. Messages list
 
-![](img/messages.png)
+![](img/MessagesScreen.png)
