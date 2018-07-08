@@ -35,7 +35,7 @@ The backend is already hosted and provided at https://hohoho-backend.herokuapp.c
 
 ## Part 2. User list
 
-![](img/UserScreen.png)
+![](img/UsersScreen.png)
 
 **Tap on a user to send a message** / **Tap & hold to send your location**
 
